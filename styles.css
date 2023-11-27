@@ -1,0 +1,32 @@
+/*
+p {
+    background-color: dodgerblue;
+    color: black;
+    font-size: 10px;
+    border: 4px dotted gold;
+}
+
+#paragraf {
+    background-color: rgb(16, 131, 232);
+}
+
+.text {
+    background-color: blueviolet;
+}
+
+.text-description {
+    border: 10px; color: cadetblue;
+}
+*/
+
+p {
+    background-color: red;
+}
+
+#paragraf {
+    background-color: blue;
+}
+
+.text-description {
+    background-color: green;
+}
